@@ -3,8 +3,12 @@
 - *Applications*: Healthcare, Software Engineering, Transportation
 
 ### *JOURNAL PAPERS*
-1. S. Mohammadjafari, M. Cevik, A. Basar, "*Improved alpha-GAN architecture for generating 3D connected volumes with an application to radiosurgery treatment planning*", *Applied Intelligence*, 2023.
-1. R. Helmeczi, C. Kavaklioglu, M. Cevik, D. Pirayesh Neghab, "*A multiobjective constrained POMDP model for breast cancer screening*", *Operational Research*, 2023.
+1. **Improved alpha-GAN architecture for generating 3D connected volumes with an application to radiosurgery treatment planning**\
+S. Mohammadjafari, M. Cevik, A. Basar\
+*Applied Intelligence* (2023).
+1. **A multiobjective constrained POMDP model for breast cancer screening**\
+R. Helmeczi, C. Kavaklioglu, M. Cevik, D. Pirayesh Neghab\
+*Operational Research* (2023).
 1. R. Helmeczi, C. Kavaklioglu, M. Cevik, "*Linear Programming-based Solution Methods for Constrained POMDPs*", *Applied Intelligence*, 2023.
 1. H. Jahanshahi, M. Cevik, "*SDABT: A Schedule and Dependency-aware Bug Triaging Method*", *Information and Software Technology*, 2022 [[link]](https://arxiv.org/abs/2204.05972).
 1. O. Seker, M. Cevik, M. Bodur, Y. Lee, M. Ruschin, "*Multiobjective optimization approaches for sector duration optimization problem in radiosurgery*", *INFORMS Journal on Computing*, 2022  [[link]](https://arxiv.org/pdf/2104.13878.pdf).
