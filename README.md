@@ -4,4 +4,4 @@ last updated: 09/03/2023
   *Methodologies*: Applied Machine Learning, Reinforcement Learning, Markov Decision Processes, Integer Programming\
   *Applications*: Healthcare, Software Engineering, Transportation
 
-**Journal Papers**:\
+**Journal Papers**:
