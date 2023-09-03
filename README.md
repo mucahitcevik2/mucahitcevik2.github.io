@@ -1,8 +1,8 @@
-### *RESEARCH INTERESTS*
+### *Research*
 - *Methodologies*: Applied Machine Learning, Reinforcement Learning, Markov Decision Processes, Integer Programming
 - *Applications*: Healthcare, Software Engineering, Transportation
 
-### *JOURNAL PAPERS*
+### *Journal Papers*
 1. **Improved alpha-GAN architecture for generating 3D connected volumes with an application to radiosurgery treatment planning**\
 S. Mohammadjafari, M. Cevik, A. Basar\
 *Applied Intelligence* (2023)
