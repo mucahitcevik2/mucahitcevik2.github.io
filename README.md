@@ -12,7 +12,7 @@ R. Helmeczi, C. Kavaklioglu, M. Cevik, D. Pirayesh Neghab\
 1. **Linear Programming-based Solution Methods for Constrained POMDPs**\
 R. Helmeczi, C. Kavaklioglu, M. Cevik\
 *Applied Intelligence* (2023)
-1. **SDABT: A Schedule and Dependency-aware Bug Triaging Method** [[link]](https://arxiv.org/abs/2204.05972)\
+1. **SDABT: A Schedule and Dependency-aware Bug Triaging Method**\
 H. Jahanshahi, M. Cevik\
 *Information and Software Technology* (2022)
 1. **Multiobjective optimization approaches for sector duration optimization problem in radiosurgery** [[link]](https://arxiv.org/pdf/2104.13878.pdf)\
@@ -106,7 +106,7 @@ C. Lee, M. Cevik, O. Alagoz, B. Sprague, A. Tosteson, D. Miglioretti, K. Kerliko
 N. Stout, S. Lee, C. Schechter, K. Kerlikowske, O. Alagoz, D. Berry, D. Buist, M. Cevik, G. Chisholm, H. De Koning, H. Huang, R. Hubbard, D. Miglioretti, M. Munsell, A. Trentham-Dietz, N. van Ravesteyn, A. Tosteson, J. Mandelblatt\
 *Journal of National Cancer Institute* (2014)
 1. **Combinatorial Benders Cuts for Decomposing IMRT Fluence Maps Using Rectangular Apertures** [[link]](https://www.sciencedirect.com/science/article/pii/S0305054811001985)\
-Z. C. Taşkın, and M. Cevik\
+Z. C. Taşkın, M. Cevik\
 *Computers and Operations Research* (2013)
 
 
