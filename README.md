@@ -19,7 +19,7 @@ H. Jahanshahi, M. Cevik\
 O. Seker, M. Cevik, M. Bodur, Y. Lee, M. Ruschin\
 *INFORMS Journal on Computing* (2022)
 1. **Auto Response Generation in Online Medical Chat Services**\
-H. Jahanshahi, S. Kazmi, M. Cevik\ 
+H. Jahanshahi, S. Kazmi, M. Cevik\
 *Journal of Healthcare Informatics Research* (2022)
 1. **Active Learning for Multi-way Sensitivity Analysis with Application to Disease Screening Modeling**\
 M. Cevik, S. Angco, E. Heydari, H. Jahanshahi, N. Prayogo\
@@ -58,7 +58,7 @@ O. Ozyegen, I. Ilic, M. Cevik\
 P. Lak, A. Bozanta, C. Kavaklioglu, M. Cevik, A. Basar, M. Petitclerc, G. Wills\
 *Expert Systems* (2021)
 1. **Order Dispatching for an Ultra-Fast Delivery Service via Deep Reinforcement Learning**\
-E. Kavuk, A. Tosun, M. Cevik, A. Bozanta, S. Sonuc, A. Duranel, M. Tutuncu, A. Basar
+E. Kavuk, A. Tosun, M. Cevik, A. Bozanta, S. Sonuc, A. Duranel, M. Tutuncu, A. Basar\
 *Applied Intelligence* (2021)
 1. **Explainable boosted linear regression for time series forecasting**\
 I. Ilic, B. Gorgulu, M. Cevik, M. Baydogan\
