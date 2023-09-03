@@ -1,10 +1,10 @@
 last updated: 09/03/2023
 
-**Research Interests**:\
-- *Methodologies*: Applied Machine Learning, Reinforcement Learning, Markov Decision Processes, Integer Programming\
+**Research Interests**
+- *Methodologies*: Applied Machine Learning, Reinforcement Learning, Markov Decision Processes, Integer Programming
 - *Applications*: Healthcare, Software Engineering, Transportation
 
-**Journal Papers**:
+**Journal Papers**
 1. S. Mohammadjafari, M. Cevik, A. Basar, "Improved alpha-GAN architecture for generating 3D connected volumes with an application to radiosurgery treatment planning", *Applied Intelligence*, 2023.
 1. R. Helmeczi, C. Kavaklioglu, M. Cevik, D. Pirayesh Neghab, "A multiobjective constrained POMDP model for breast cancer screening", *Operational Research*, 2023.
 1. R. Helmeczi, C. Kavaklioglu, M. Cevik, "Linear Programming-based Solution Methods for Constrained POMDPs", *Applied Intelligence*, 2023.
