@@ -1,8 +1,8 @@
 last updated: 09/03/2023
 
 **Research Interests**:\
-  *Methodologies*: Applied Machine Learning, Reinforcement Learning, Markov Decision Processes, Integer Programming\
-  *Applications*: Healthcare, Software Engineering, Transportation
+- *Methodologies*: Applied Machine Learning, Reinforcement Learning, Markov Decision Processes, Integer Programming\
+- *Applications*: Healthcare, Software Engineering, Transportation
 
 **Journal Papers**:
 1. S. Mohammadjafari, M. Cevik, A. Basar, "Improved alpha-GAN architecture for generating 3D connected volumes with an application to radiosurgery treatment planning", *Applied Intelligence*, 2023.
