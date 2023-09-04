@@ -8,6 +8,15 @@
 - *Applications*: Healthcare, Software Engineering, Transportation
 
 ### *Journal Papers*
+1. **Multistage stochastic fractionated intensity modulated radiation therapy planning**\
+M. Bodur , M. Cevik, A.A. Cire, M. Ruschin, J. Wang\
+*Computers and Operations Research* (2023).
+1. **Token classification for disambiguating medical abbreviations**\
+M. Cevik, S. Mohammadjafari, M. Myers, S. Yildirim\
+*Journal of Healthcare Informatics Research* (2023)
+1. **ADPTriage: Approximate dynamic programming for bug triage**\
+H. Jahanshahi, M. Cevik, K. Mousavi, A. Basar\
+*IEEE Transactions on Software Engineering* (2023)
 1. **Improved alpha-GAN architecture for generating 3D connected volumes with an application to radiosurgery treatment planning**\
 S. Mohammadjafari, M. Cevik, A. Basar\
 *Applied Intelligence* (2023)
@@ -53,9 +62,9 @@ C. Kavaklioglu, M. Cevik\
 1. **Courier routing optimization for food delivery service using reinforcement learning**\
 A. Bozanta, M. Cevik, C. Kavaklioglu, E. Kavuk, A. Tosun, S. Sonuc, A. Duranel, A. Basar\
 *Computers and Industrial Engineering* (2021)
-1. **On the impact of deep learning-based time-series forecasts on multistage stochastic programming policies**
+1. **On the impact of deep learning-based time-series forecasts on multistage stochastic programming policies**\
 J. Wang, M. Cevik, M. Bodur\
-*INFOR* (2021)
+*INFOR: Information Systems and Operational Research* (2021)
 1. **Evaluation of local explanation methods for multivariate time series forecasting**\
 O. Ozyegen, I. Ilic, M. Cevik\
 *Applied Intelligence* (2021)
@@ -116,6 +125,12 @@ Z. C. Taşkın, M. Cevik\
 
 
 ### *Peer Reviewed Conference Papers*
+1. **Few-shot learning approaches to software requirement quality prediction**\
+S. Yildirim, M. Cevik, A. Basar\
+*Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering* (2023)
+1. **Data augmentation for conflict and duplicate detection in software engineering sentence pairs**\
+G. Malik, M. Cevik, A. Basar\
+*Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering* (2023)
 1. **Few shot learning approaches to essay scoring**\
 R. Helmeczi, S. Yildirim, M. Cevik, S. Lee\
 *36th Canadian Conference on Artificial Intelligence* (2023)
