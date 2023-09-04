@@ -85,7 +85,7 @@ S. Mohammadjafari, O. Ozyegen, M. Cevik, E. Kavurmacioglu, J. Ethier, A. Basar\
 *Neural Computing and Applications* (2020)
 1. **Machine learning-based radio coverage prediction in urban environments** [[link]](https://ieeexplore.ieee.org/abstract/document/9247298)\
 S. Mohammadjafari, S. Roginsky, E. Kavurmacioglu, M. Cevik, J. Ethier, A. Basar\
-*IEEE TNSM* (2020)
+*IEEE Transactions on Network and Service Management* (2020)
 1. **Analyzing intracranial EEG in pharmacoresistant epilepsy patients using hidden Markov models and time series forecasting methods** [[link]](https://link.springer.com/article/10.1007/s42979-020-00345-2)\
 A. Bhowmick, M. Cevik, A. Basar\
 *SN Computer Science* (2020)
@@ -106,7 +106,7 @@ J. van den Broek, N. van Ravesteyn, J. Mandelblatt, M. Cevik, C. Schechter, S. L
 *Medical Decision Making* (2018)
 1. **The University of Wisconsin breast cancer epidemiology simulation model: An update** [[link]](https://journals.sagepub.com/doi/abs/10.1177/0272989X17711927)\
 O. Alagoz, M. Ergun, M. Cevik, B. Sprague, D. Fryback, R. Gangnon, J. Hampton, N. Stout, A. Trentham-Dietz\
-*Medical Decision Making*, 2018
+*Medical Decision Making* (2018)
 1. **Using active learning for speeding up calibration in simulation models** [[link]](https://journals.sagepub.com/doi/abs/10.1177/0272989X15611359)\
 M. Cevik, M. Ergun, N. Stout, A. Trentham-Dietz, M. Craven, O. Alagoz\
 *Medical Decision Making* (2016)
