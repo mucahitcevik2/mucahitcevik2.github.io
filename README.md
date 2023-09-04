@@ -11,7 +11,7 @@
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning**\
 M. Bodur , M. Cevik, A.A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023).
-1. **Token classification for disambiguating medical abbreviations**\
+1. **Sequence labeling for disambiguating medical abbreviations**\
 M. Cevik, S. Mohammadjafari, M. Myers, S. Yildirim\
 *Journal of Healthcare Informatics Research* (2023)
 1. **ADPTriage: Approximate dynamic programming for bug triage**\
