@@ -2,9 +2,9 @@
 title: Homepage
 ---
 ### *Education*
-- Ph.D., Industrial and Systems Engineering, UW-Madison, 2016
+- Ph.D., [Industrial and Systems Engineering, UW-Madison](https://engineering.wisc.edu/departments/industrial-systems-engineering/), 2016
 - M.S., Industrial Engineering, Bogazici University, 2011
-- B.S., Industrial Engineering, Bogazici University, 2009
+- B.S., [Industrial Engineering, Bogazici University](https://ie.boun.edu.tr/), 2009
 
 ### *Research Interests*
 - *Methodologies*: Applied Machine Learning, Reinforcement Learning, Stochastic Modeling and Simulation, Integer Programming
