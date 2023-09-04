@@ -9,7 +9,7 @@
 
 ### *Journal Papers*
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning**\
-M. Bodur , M. Cevik, A.A. Cire, M. Ruschin, J. Wang\
+M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023).
 1. **Sequence labeling for disambiguating medical abbreviations**\
 M. Cevik, S. Mohammadjafari, M. Myers, S. Yildirim\
