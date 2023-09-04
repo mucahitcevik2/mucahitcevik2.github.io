@@ -12,7 +12,6 @@ title: Homepage
 
 ### *Journal Papers*
 {% include journalpubs.html %}
-
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning**\
 M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023).
