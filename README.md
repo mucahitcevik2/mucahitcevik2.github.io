@@ -4,7 +4,7 @@
 - B.S., Industrial Engineering, Bogazici University, 2009
 
 ### *Research Interests*
-- *Methodologies*: Applied Machine Learning, Reinforcement Learning, Markov Decision Processes, Integer Programming
+- *Methodologies*: Applied Machine Learning, Reinforcement Learning, Stochastic Modeling and Simulation, Integer Programming
 - *Applications*: Healthcare, Software Engineering, Transportation
 
 ### *Journal Papers*
