@@ -44,7 +44,7 @@ O. Ozyegen, D. Kabe, M. Cevik\
 1. **Wayback machine: Capturing the evolutionary behaviour of the bug dependency graph in open-source software systems**\
 H. Jahanshahi, M. Cevik, J. Navas-Su, A. Basar, A. Gonzales-Torres\
 *Journal of Systems and Software*, 2022
-1. **A Deep reinforcement learning approach for the meal delivery problem**\
+1. **A deep reinforcement learning approach for the meal delivery problem**\
 H. Jahanshahi, A. Bozanta, M. Cevik, E. Kavuk, A. Tosun, S. Sonuc, A. Basar\
 *Knowledge-Based Systems* (2022)
 1. **VARGAN: Variance enforcing network enhanced GAN**\
