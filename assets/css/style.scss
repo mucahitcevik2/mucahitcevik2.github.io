@@ -11,12 +11,9 @@ footer {
   display: none !important;
 }
 
-.inner {
-  content-width: 90%;
-}
-
-.page-content {
-  max-width: 90%;
+.page-content, .inner {
+  max-width: 90% !important;
+  margin: 0 auto; /* This centers the content if it's not already centered */
 }
 
 // .wrapper {
