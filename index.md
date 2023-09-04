@@ -11,6 +11,8 @@ title: Homepage
 - *Applications*: Healthcare, Transportation, Software Engineering
 
 ### *Journal Papers*
+{% include pubs.html %}
+
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning**\
 M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023).
