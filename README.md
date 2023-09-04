@@ -190,7 +190,7 @@ H. Jahanshahi, D. Jothimani, A. Başar, M. Cevik\
 *Proceedings of the PROMISE'19*, pages 90-99 (2019)
 
 ### *Preprints*
-**Screening for breast cancer: The role of supplemental tests and breast density information** [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3122581)\
+- **Screening for breast cancer: The role of supplemental tests and breast density information** [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3122581)\
 B. Sandikci, M. Cevik, D. Schacht\
 *Working paper* (2018)
 
