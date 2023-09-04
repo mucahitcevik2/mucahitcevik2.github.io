@@ -133,7 +133,7 @@ S. Yildirim, M. Cevik, A. Basar\
 1. **Data augmentation for conflict and duplicate detection in software engineering sentence pairs**\
 G. Malik, M. Cevik, A. Basar\
 *Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering* (2023)
-1. **Few shot learning approaches to essay scoring**\
+1. **Few-shot learning approaches to essay scoring**\
 R. Helmeczi, S. Yildirim, M. Cevik, S. Lee\
 *36th Canadian Conference on Artificial Intelligence* (2023)
 1. **An empirical study on vagueness detection in privacy policy texts**\
