@@ -145,7 +145,7 @@ H. Jahanshahi, O. Ozyegen, M. Cevik, B. Bulut, D. Yigit, F. Gonen, A. Basar\
 *Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering* (2021)
 1. **Time series forecasting for patient arrivals in online health services**\
 S. Kazmi, A. Bozanta, M. Cevik\
-*Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering (2021)
+*Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering* (2021)
 1. **Text classification on software requirements specifications using transformer models**\
 D. Kici, A. Bozanta, M. Cevik, D. Parikh, A. Basar\
 *Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering* (2021)
@@ -179,7 +179,7 @@ B. Sandikci, M. Cevik\
 1. **Predicting the number of reported bugs in a software repository**\
 H. Jahanshahi, M. Cevik, A. Basar\
 *Proceedings of the 33rd Canadian Conference on Artificial Intelligence* (2020)
-1. **Using topic modelling to improve prediction of financial report commentary classes\
+1. **Using topic modelling to improve prediction of financial report commentary classes**\
 K. El mokhtari, M. Cevik, A. Basar\
 Proceedings of the 33rd Canadian Conference on Artificial Intelligence*, pages 201-207 (2020)
 1. **Augmented out-of-sample comparison method for time series forecasting techniques** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-47358-7_30)\
