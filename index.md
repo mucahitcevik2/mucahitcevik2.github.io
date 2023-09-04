@@ -46,7 +46,7 @@ O. Ozyegen, D. Kabe, M. Cevik\
 *Artificial Intelligence in Medicine* (2022)
 1. **Wayback machine: Capturing the evolutionary behaviour of the bug dependency graph in open-source software systems**\
 H. Jahanshahi, M. Cevik, J. Navas-Su, A. Basar, A. Gonzales-Torres\
-*Journal of Systems and Software*, 2022
+*Journal of Systems and Software* (2022)
 1. **A deep reinforcement learning approach for the meal delivery problem**\
 H. Jahanshahi, A. Bozanta, M. Cevik, E. Kavuk, A. Tosun, S. Sonuc, A. Basar\
 *Knowledge-Based Systems* (2022)
@@ -135,13 +135,13 @@ G. Malik, M. Cevik, A. Basar\
 *Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering* (2023)
 1. **Few-shot learning approaches to essay scoring**\
 R. Helmeczi, S. Yildirim, M. Cevik, S. Lee\
-*36th Canadian Conference on Artificial Intelligence* (2023)
+*Proceedings of the 36th Canadian Conference on AI* (2023)
 1. **An empirical study on vagueness detection in privacy policy texts**\
 G. Malik, S. Yildirim, M. Cevik, A. Basar\
-*36th Canadian Conference on Artificial Intelligence* (2023)
+*Proceedings of the 36th Canadian Conference on AI* (2023)
 1. **Identifying the factors influencing IPO underpricing using explainable machine learning techniques**\
 D. Pirayesh Neghab, M. Cevik, A. Basar\
-*36th Canadian Conference on Artificial Intelligence* (2023)
+*Proceedings of the 36th Canadian Conference on AI* (2023)
 1. **A prompt-based few-shot learning approach to software conflict detection**\
 R. Helmeczi, M. Cevik, S. Yildirim\
 *Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering* (2022)
@@ -153,10 +153,10 @@ N. Prayogo, S. Rafayal, D. Pirayesh Neghab, M. Cevik\
 *Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering* (2022)
 1. **An empirical study on probabilistic forecasting for predicting city-wide electricity consumption**\
 S. Rafayal, M. Cevik, D. Kici\
-*35th Canadian Conference on Artificial Intelligence* (2022)
+*Proceedings of the 35th Canadian Conference on AI* (2022)
 1. **Software requirement specific entity extraction using transformer models**\
 G. Malik, M. Cevik, S. Bera, S. Yildirim, D. Parikh, A. Basar\
-35th Canadian Conference on Artificial Intelligence (2022)
+*Proceedings of the 35th Canadian Conference on AI* (2022)
 1. **Text classification for predicting multi-level product categories**\
 H. Jahanshahi, O. Ozyegen, M. Cevik, B. Bulut, D. Yigit, F. Gonen, A. Basar\
 *Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering* (2021)
@@ -171,13 +171,13 @@ A. Bozanta, S. Angco, M. Cevik, A. Basar\
 *Proceedings of the 20th IEEE International Conference on Machine Learning and Applications* (2021)
 1. **Using ProtoPNet for interpretable Alzheimer's disease classification**\
 S. Mohammadjafari, M. Thanabalasingam, M. Cevik, A. Basar\
-*Proceedings of the 34th Canadian Conference on Artificial Intelligence* (2021)
+*Proceedings of the 34th Canadian Conference on AI* (2021)
 1. **Named entity recognition on software requirements specification documents**\
 G. Malik, Y. Khedr, M. Cevik, D. Parikh, A. Basar\
-*Proceedings of the 34th Canadian Conference on Artificial Intelligence* (2021)
+*Proceedings of the 34th Canadian Conference on AI* (2021)
 1. **A BERT-based transfer learning approach to text classification on software requirements specifications**\
 D. Kici, G. Malik, M. Cevik, D. Parikh, A. Basar\
-*Proceedings of the 34th Canadian Conference on Artificial Intelligence* (2021)
+*Proceedings of the 34th Canadian Conference on AI* (2021)
 1. **DABT: A dependency-aware bug triaging method** [[link]](https://dl.acm.org/doi/abs/10.1145/3463274.3463342)\
 H. Jahanshahi, K. Chhabra, M. Cevik, A. Basar\
 *Proceedings of the EASE 2021* (2021)
@@ -195,13 +195,13 @@ B. Sandikci, M. Cevik\
 *Proceedings of the Global Joint Conference on Industrial Engineering and Its Application Areas (GJCIE)* (2020).
 1. **Predicting the number of reported bugs in a software repository**\
 H. Jahanshahi, M. Cevik, A. Basar\
-*Proceedings of the 33rd Canadian Conference on Artificial Intelligence* (2020)
+*Proceedings of the 33rd Canadian Conference on AI* (2020)
 1. **Using topic modelling to improve prediction of financial report commentary classes**\
 K. El mokhtari, M. Cevik, A. Basar\
-*Proceedings of the 33rd Canadian Conference on Artificial Intelligence*, pages 201-207 (2020)
+*Proceedings of the 33rd Canadian Conference on AI*, pages 201-207 (2020)
 1. **Augmented out-of-sample comparison method for time series forecasting techniques** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-47358-7_30)\
 I. Ilic, B. Gorgulu, M. Cevik\
-*Proceedings of the 33rd Canadian Conference on Artificial Intelligence*, pages 302-308 (2020)
+*Proceedings of the 33rd Canadian Conference on AI*, pages 302-308 (2020)
 1. **Does chronology matter in JIT defect prediction?: A Partial Replication Study** [[link]](https://dl.acm.org/citation.cfm?id=3351449)\
 H. Jahanshahi, D. Jothimani, A. Başar, M. Cevik\
 *Proceedings of the PROMISE'19*, pages 90-99 (2019)
