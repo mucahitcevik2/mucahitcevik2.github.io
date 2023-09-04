@@ -8,7 +8,7 @@ title: Homepage
 
 ### *Research Interests*
 - *Methodologies*: Applied Machine Learning, Reinforcement Learning, Stochastic Modeling and Simulation, Integer Programming
-- *Applications*: Healthcare, Software Engineering, Transportation
+- *Applications*: Healthcare, Transportation, Software Engineering
 
 ### *Journal Papers*
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning**\
