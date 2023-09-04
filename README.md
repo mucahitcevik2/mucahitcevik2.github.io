@@ -196,7 +196,7 @@ H. Jahanshahi, M. Cevik, A. Basar\
 *Proceedings of the 33rd Canadian Conference on Artificial Intelligence* (2020)
 1. **Using topic modelling to improve prediction of financial report commentary classes**\
 K. El mokhtari, M. Cevik, A. Basar\
-Proceedings of the 33rd Canadian Conference on Artificial Intelligence*, pages 201-207 (2020)
+*Proceedings of the 33rd Canadian Conference on Artificial Intelligence*, pages 201-207 (2020)
 1. **Augmented out-of-sample comparison method for time series forecasting techniques** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-47358-7_30)\
 I. Ilic, B. Gorgulu, M. Cevik\
 *Proceedings of the 33rd Canadian Conference on Artificial Intelligence*, pages 302-308 (2020)
