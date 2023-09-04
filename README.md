@@ -1,3 +1,8 @@
+**Education**\
+- Ph.D., Industrial and Systems Engineering, University of Wisconsin-Madison, 2016
+- M.S., Industrial Engineering, Bogazici University, 2011
+- B.S., Industrial Engineering, Bogazici University, 2009
+
 ### *Research*
 - *Methodologies*: Applied Machine Learning, Reinforcement Learning, Markov Decision Processes, Integer Programming
 - *Applications*: Healthcare, Software Engineering, Transportation
