@@ -39,15 +39,17 @@ div.links
 
 <h2 id="publications">Journal Papers</h2>
 
+<ol reversed>
 {% for pub in site.data.journalpubs %}
   <li>
     <div class="title">{{ pub.title }}</div>
     <div class="authors">{{ pub.authors }}</div>
-    <div class="venue">{{ pub.venue }}</div>
+    <div class="venue"><em>{{ pub.venue }}</em></div>
     <div class="links">
     {% for link in pub.links %}
-      [ <a href="{{ link.url }}">{{ link.name}}</a> ]
+      [ <a href="{{ link.url }}">{{ link.name }}</a> ]
     {% endfor %}
     </div>
   </li>
 {% endfor %}
+</ol>
