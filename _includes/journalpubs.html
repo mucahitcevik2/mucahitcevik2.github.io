@@ -39,10 +39,10 @@ div.links
 
 <!-- <div><h2 id="publications">Journal Papers</h2></div> -->
 
-<ol reversed>
+<ol>
 {% for pub in site.data.journalpubs %}
   <li>
-    <div class="title">{{ pub.title }}</div>
+    <div class="title">{{ loop.length - loop.index + 1 }}. {{ pub.title }}</div>
     <div class="authors">{{ pub.authors }}</div>
     <div class="venue"><em>{{ pub.venue }}</em></div>
     <div class="links">
@@ -53,3 +53,4 @@ div.links
   </li>
 {% endfor %}
 </ol>
+
