@@ -131,7 +131,7 @@ R. Helmeczi, M. Cevik, S. Yildirim\
 1. **Time series forecasting-based peak shaving for building energy management**\
 S. Rafayal, M. Cevik\
 *Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering* (2022)
-1. **Partially observable Markov chain models for evaluating lung cancer screening policies\
+1. **Partially observable Markov chain models for evaluating lung cancer screening policies**\
 N. Prayogo, S. Rafayal, D. Pirayesh Neghab, M. Cevik\
 *Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering* (2022)
 1. **An empirical study on probabilistic forecasting for predicting city-wide electricity consumption**\
@@ -140,7 +140,7 @@ S. Rafayal, M. Cevik, D. Kici\
 1. **Software requirement specific entity extraction using transformer models**\
 G. Malik, M. Cevik, S. Bera, S. Yildirim, D. Parikh, A. Basar\
 35th Canadian Conference on Artificial Intelligence (2022)
-1. **Text classification for predicting multi-level product categories\
+1. **Text classification for predicting multi-level product categories**\
 H. Jahanshahi, O. Ozyegen, M. Cevik, B. Bulut, D. Yigit, F. Gonen, A. Basar\
 *Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering* (2021)
 1. **Time series forecasting for patient arrivals in online health services**\
