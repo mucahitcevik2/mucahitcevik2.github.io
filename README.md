@@ -1,4 +1,10 @@
-**Education**
+**Contact:**\
+Toronto Metropolitan University\
+350 Victoria Street,\
+Toronto, ON, Canada, M5B 2K3\
+Phone: x3756
+
+### *Education*
 - Ph.D., Industrial and Systems Engineering, University of Wisconsin-Madison, 2016
 - M.S., Industrial Engineering, Bogazici University, 2011
 - B.S., Industrial Engineering, Bogazici University, 2009
