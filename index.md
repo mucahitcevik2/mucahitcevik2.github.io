@@ -1,3 +1,6 @@
+---
+title: Homepage
+---
 **Education**
 - Ph.D., Industrial and Systems Engineering, UW-Madison, 2016
 - M.S., Industrial Engineering, Bogazici University, 2011
