@@ -1,16 +1,16 @@
 ---
 title: Homepage
 ---
-### *Education*
+### *EDUCATION*
 - Ph.D., [Industrial and Systems Engineering, UW-Madison](https://engineering.wisc.edu/departments/industrial-systems-engineering/), 2016
 - M.S., Industrial Engineering, Bogazici University, 2011
 - B.S., [Industrial Engineering, Bogazici University](https://ie.boun.edu.tr/), 2009
 
-### *Research Interests*
+### *RESEARCH INTERESTS*
 - *Methodologies*: Applied Machine Learning, Reinforcement Learning, Stochastic Modeling and Simulation, Integer Programming
 - *Applications*: Healthcare, Transportation, Software Engineering
 
-### *Journal Papers*
+### *JOURNAL PAPERS*
 1. **A unified framework for financial commentary prediction**\
 O. Ozyegen, G. Malik, M. Cevik, K. Ioi, K. El Mokhtari\
 *Information Technology and Management* (2024)
@@ -142,7 +142,7 @@ Z. C. Taşkın, M. Cevik\
 *Computers and Operations Research* (2013)
 {: reversed="reversed"}
 
-### *Peer Reviewed Conference Papers*
+### *PEER REVIEWED CONFERENCE PAPERS*
 1. **Transformer-based Text Highlighting for Medical Terms**\
 L. Ozyegen, M. Cevik, A. Basar\
 *Proceedings of the 34th Annual International Conference on Computer Science and Software Engineering* (2024)
@@ -241,12 +241,12 @@ H. Jahanshahi, D. Jothimani, A. Başar, M. Cevik\
 *Proceedings of the PROMISE'19*, pages 90-99 (2019)
 {: reversed="reversed"}
 
-### *Preprints*
+### *PREPRINTS*
 - **Screening for breast cancer: The role of supplemental tests and breast density information** [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3122581)\
 B. Sandikci, M. Cevik, D. Schacht\
 *Working paper* (2018)
 
-### *Teaching*
+### *TEACHING*
 **Toronto Metropolitan University**
 1. DS 8001: Design of Algorithms (Fall 2020, Fall 2021, Fall 2022, Fall 2023, Fall 2024)
 1. DS 8007: Advanced Data Visualization (Fall 2024)
