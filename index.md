@@ -143,6 +143,24 @@ Z. C. Taşkın, M. Cevik\
 {: reversed="reversed"}
 
 ### *Peer Reviewed Conference Papers*
+1. **Transformer-based Text Highlighting for Medical Terms**\
+L. Ozyegen, M. Cevik, A. Basar\
+*Proceedings of the 34th Annual International Conference on Computer Science and Software Engineering* (2024)
+1. **Exploring Large Language Models for Automated Essay Grading in Finance Domain**\
+G. Malik, M. Cevik, S. Lee\
+*Proceedings of the 34th Annual International Conference on Computer Science and Software Engineering* (2024)
+1. **Machine Learning-based Control of Dual-Sourcing Inventory Systems**\
+D. Pirayesh Neghab, S. Li, M. Cevik, M.I.M. Wahab\
+*Proceedings of the 34th Annual International Conference on Computer Science and Software Engineering* (2024)
+1. **Anaphora Resolution in Software Requirements Engineering: A Comparison of Generative NLP Pipelines and Encoder-Based Models**\
+G. Malik, S. Yildirim, M. Cevik, A. Basar\
+*Proceedings of the 34th Annual International Conference on Computer Science and Software Engineering* (2024)
+1. **Interpreting time series forecasting models using model class reliance**\
+S. Berry, M. Cevik, O. Ozyegen\
+*Proceedings of the 37th Canadian Conference on AI* (2024)
+1. **Anaphoric Ambiguity Resolution in Software Requirement Texts**\
+S. Mohammadjafari, S. Yildirim, M. Cevik, A. Basar\
+*Proceedings of the IEEE International Conference on Big Data* (2023)
 1. **Few-shot learning approaches to software requirement quality prediction**\
 S. Yildirim, M. Cevik, A. Basar\
 *Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering* (2023)
