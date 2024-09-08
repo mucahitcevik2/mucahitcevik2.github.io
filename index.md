@@ -247,22 +247,22 @@ B. Sandikci, M. Cevik, D. Schacht\
 *Working paper* (2018)
 
 ### *Teaching*
-- **Toronto Metropolitan University**
-  1. DS 8001: Design of Algorithms (Fall 2020, Fall 2021, Fall 2022, Fall 2023, Fall 2024)
-  1. DS 8007: Advanced Data Visualization (Fall 2024)
-  1. DS 8013: Deep Learning (Winter 2024)
-  1. DS 8004: Data Mining (Winter 2020, Winter 2021, Winter 2022, Winter 2023)
-  1. DS 8010: Interactive Learning in Decision Process (Winter 2021, Winter 2022, Winter 2023)
-  1. DS 8002: Machine Learning (Fall 2019)
-  1. IND 405: Introduction to Data Analytics (Fall 2019)
-  1. IND 300: Introduction to Management (Winter 2019)
-  1. IND 708: Information Systems (Fall 2018, Fall 2024)
-  {: reversed="reversed"}
+**Toronto Metropolitan University**
+1. DS 8001: Design of Algorithms (Fall 2020, Fall 2021, Fall 2022, Fall 2023, Fall 2024)
+1. DS 8007: Advanced Data Visualization (Fall 2024)
+1. DS 8013: Deep Learning (Winter 2024)
+1. DS 8004: Data Mining (Winter 2020, Winter 2021, Winter 2022, Winter 2023)
+1. DS 8010: Interactive Learning in Decision Process (Winter 2021, Winter 2022, Winter 2023)
+1. DS 8002: Machine Learning (Fall 2019)
+1. IND 405: Introduction to Data Analytics (Fall 2019)
+1. IND 300: Introduction to Management (Winter 2019)
+1. IND 708: Information Systems (Fall 2018, Fall 2024)
+{: reversed="reversed"}
 
-- **University of Toronto**
-  1. MIE 1605: Stochastic Process (Fall 2017)
+**University of Toronto**
+1. MIE 1605: Stochastic Process (Fall 2017)
 
-- **University of Wisconsin - Madison**
-  1. ISyE 620: Simulation Modeling and Analysis (Summer 2014)
+**University of Wisconsin - Madison**
+1. ISyE 620: Simulation Modeling and Analysis (Summer 2014)
 
 
