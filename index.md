@@ -125,6 +125,7 @@ N. Stout, S. Lee, C. Schechter, K. Kerlikowske, O. Alagoz, D. Berry, D. Buist, M
 1. **Combinatorial Benders cuts for decomposing IMRT fluence maps using rectangular apertures** [[link]](https://www.sciencedirect.com/science/article/pii/S0305054811001985)\
 Z. C. Taşkın, M. Cevik\
 *Computers and Operations Research* (2013)
+{: reversed="reversed"}
 
 ### *Peer Reviewed Conference Papers*
 1. **Few-shot learning approaches to software requirement quality prediction**\
@@ -205,6 +206,7 @@ I. Ilic, B. Gorgulu, M. Cevik\
 1. **Does chronology matter in JIT defect prediction?: A Partial Replication Study** [[link]](https://dl.acm.org/citation.cfm?id=3351449)\
 H. Jahanshahi, D. Jothimani, A. Başar, M. Cevik\
 *Proceedings of the PROMISE'19*, pages 90-99 (2019)
+{: reversed="reversed"}
 
 ### *Preprints*
 - **Screening for breast cancer: The role of supplemental tests and breast density information** [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3122581)\
