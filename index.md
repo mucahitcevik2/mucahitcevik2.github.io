@@ -11,6 +11,21 @@ title: Homepage
 - *Applications*: Healthcare, Transportation, Software Engineering
 
 ### *Journal Papers*
+1. **A unified framework for financial commentary prediction**\
+O. Ozyegen, G. Malik, M. Cevik, K. Ioi, K. El Mokhtari\
+*Information Technology and Management* (2024)
+1. **Approximate dynamic programming for pickup and delivery problem with crowd-shipping**\
+K. Mousavi, M. Bodur, M. Cevik, M. Roorda\
+*Transportation Research Part B: Methodological* (2024)
+1. **Optimizing electricity peak shaving through stochastic programming and probabilistic time series forecasting**\
+S. Rafayal, A. Alnaggar, M. Cevik\
+*Journal of Building Engineering* (2024)
+1. **Game‐theoretic approaches to product introduction strategies for durable products**\
+D. Pirayesh Neghab, J. Restrepo Diaz, M. Cevik, M.I.M. Wahab\
+*Managerial and Decision Economics* (2024)
+1. **Explaining Exchange Rate Forecasts with Macroeconomic Fundamentals Using Interpretive Machine Learning**\
+D. Pirayesh Neghab, M. Cevik, M.I.M. Wahab, A. Basar\
+*Computational Economics* (2024)
 1. **Multistage stochastic fractionated intensity modulated radiation therapy planning**\
 M. Bodur , M. Cevik, A. Cire, M. Ruschin, J. Wang\
 *Computers and Operations Research* (2023)
