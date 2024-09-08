@@ -257,7 +257,6 @@ B. Sandikci, M. Cevik, D. Schacht\
 1. IND 405: Introduction to Data Analytics (Fall 2019)
 1. IND 300: Introduction to Management (Winter 2019)
 1. IND 708: Information Systems (Fall 2018, Fall 2024)
-{: reversed="reversed"}
 
 **University of Toronto**
 1. MIE 1605: Stochastic Process (Fall 2017)
