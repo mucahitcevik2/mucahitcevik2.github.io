@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Mucahit Cevik
 description: Associate Professor of Industrial Engineering at Toronto Metropolitan University
-logo: assets/img/mucahit_new.jpg
+logo: /assets/img/mucahit_new.jpg
 show_downloads: false
