@@ -11,6 +11,24 @@ title: Homepage
 - *Applications*: Healthcare, Transportation, Software Engineering
 
 ### *JOURNAL PAPERS*
+1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling**\
+A. Dehghan-Kooshkghazi, M. Cevik, M. Bodur\
+*Transportmetrica B* (2025)
+1. **Predicting Offer Burden to Optimize Batch Sizes in Simultaneously Expiring Kidney Offers**\
+S. Berry, B. Gorgulu, S. Tunc, M. Cevik\
+*Frontiers in Artificial Intelligence* (2025)
+1. **A Hidden Markov Modulated Deep Learning Model for Retail Forecasting with Interpretation**\
+D. Pirayesh Neghab, M. Cevik, M. I. M. Wahab\
+*Computational Economics* (2025)
+1. **Time Series Clustering for Grouping Products Based on Price and Sales Patterns**\
+S. Berry, A. Bozanta, M. Cevik, B. Bulut, D. Yigit, F. Gonen, A. Basar\
+*Information Technology and Management* (2025)
+1. **Dynamic Task Allocation in Intelligent Warehouses with Hybrid Workforce of Automated Guided Vehicles and Human Pickers**\
+A. Dehghan, M. Cevik, M. Bodur\
+*ACM Transactions on Evolutionary Learning and Optimization* (2025)
+1. **ESG-based Index Tracking with Portfolio Policy**\
+D. Pirayesh Neghab, M. Moradi, M. Cevik, R. Bradrania\
+*Journal of Cleaner Production* (2025)
 1. **A unified framework for financial commentary prediction**\
 O. Ozyegen, G. Malik, M. Cevik, K. Ioi, K. El Mokhtari\
 *Information Technology and Management* (2024)
