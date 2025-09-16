@@ -163,13 +163,13 @@ Z. C. Taşkın, M. Cevik\
 ### *PEER REVIEWED CONFERENCE PAPERS*
 1. **Performance and Cost Analysis in Domain-Specific Essay Scoring with Large Language Models**\
 R. Gaur, M. Cevik, S. Lee\
-*35th Annual International Conference on Computer Science and Software Engineering* (2025)
+*Proceedings of the 35th Annual International Conference on Computer Science and Software Engineering* (2025)
 1. **Supervised Semantic Similarity-based Conflict Detection Algorithm: S3CDA**\
 G. Malik, M. Cevik, D. Parikh, A. Basar\
-*35th Annual International Conference on Computer Science and Software Engineering* (2025)
+*Proceedings of the 35th Annual International Conference on Computer Science and Software Engineering* (2025)
 1. **Adaptive Fine-tuning for Multiclass Classification over Software Requirement Data**\
 S. Yildirim, M. Cevik, A. Basar\
-*35th Annual International Conference on Computer Science and Software Engineering* (2025)
+*Proceedings of the 35th Annual International Conference on Computer Science and Software Engineering* (2025)
 1. **Transformer-based Text Highlighting for Medical Terms**\
 L. Ozyegen, M. Cevik, A. Basar\
 *Proceedings of the 34th Annual International Conference on Computer Science and Software Engineering* (2024)
