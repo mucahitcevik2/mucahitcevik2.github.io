@@ -7,7 +7,7 @@ title: Homepage
 - B.S., [Industrial Engineering, Bogazici University](https://ie.boun.edu.tr/), 2009
 
 ### *RESEARCH INTERESTS*
-- *Methodologies*: Applied Machine Learning, Reinforcement Learning, Stochastic Modeling and Simulation, Integer Programming
+- *Methodologies*: Machine Learning, Reinforcement Learning, Stochastic Modeling and Simulation, Integer Programming
 - *Applications*: Healthcare, Transportation, Software Engineering
 
 ### *JOURNAL PAPERS*
