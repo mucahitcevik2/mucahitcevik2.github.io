@@ -12,7 +12,7 @@ title: Homepage
 
 ### *JOURNAL PAPERS*
 1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling**\
-A. Dehghan-Kooshkghazi, M. Cevik, M. Bodur\
+A. Dehghan, M. Cevik, M. Bodur\
 *Transportmetrica B* (2025)
 1. **Predicting Offer Burden to Optimize Batch Sizes in Simultaneously Expiring Kidney Offers**\
 S. Berry, B. Gorgulu, S. Tunc, M. Cevik\
