@@ -277,7 +277,7 @@ B. Sandikci, M. Cevik, D. Schacht\
 *Working paper* (2018)
 
 ### *EXTERNAL SERVICE*
-1. Associate Editor, Expert Systems with Applications (2025-present)
+- Associate Editor, Expert Systems with Applications (2025-present)
 
 ### *TEACHING*
 **Toronto Metropolitan University**
