@@ -11,6 +11,9 @@ title: Homepage
 - *Applications*: Healthcare, Transportation, Software Engineering
 
 ### *JOURNAL PAPERS*
+1. **Interpretable Machine Learning for Personalized Breast Cancer Screening Recommendations**\
+S. Berry, B. Gorgulu, S. Tunc, M. Cevik\
+*Health Care Management Science* (2025)
 1. **An Enhanced Approximate Dynamic Programming Approach to On-demand Ride Pooling**\
 A. Dehghan, M. Cevik, M. Bodur\
 *Transportmetrica B* (2025)
@@ -272,6 +275,9 @@ H. Jahanshahi, D. Jothimani, A. Başar, M. Cevik\
 - **Screening for breast cancer: The role of supplemental tests and breast density information** [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3122581)\
 B. Sandikci, M. Cevik, D. Schacht\
 *Working paper* (2018)
+
+### *EXTERNAL SERVICE*
+1. Associate Editor, Expert Systems with Applications (2025-present)
 
 ### *TEACHING*
 **Toronto Metropolitan University**
