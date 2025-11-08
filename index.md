@@ -293,9 +293,9 @@ B. Sandikci, M. Cevik, D. Schacht\
 {: reversed="reversed"}
 
 **University of Toronto**
-1. MIE 1605: Stochastic Process (Fall 2017)
+- MIE 1605: Stochastic Process (Fall 2017)
 
 **University of Wisconsin - Madison**
-1. ISyE 620: Simulation Modeling and Analysis (Summer 2014)
+- ISyE 620: Simulation Modeling and Analysis (Summer 2014)
 
 
